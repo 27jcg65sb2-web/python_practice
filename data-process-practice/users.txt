@@ -1,0 +1,3 @@
+Suzuki,20
+Tanaka,22
+Sato,19
