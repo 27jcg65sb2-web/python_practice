@@ -47,7 +47,3 @@ def mat_mul(A,B):
         y.append(x)
     return y
 
-A=[[1,2],[3,4]]
-B=[[5,6],[7,8]]
-print(mat_mul(A,B))
-
